@@ -77,5 +77,5 @@ This project aim to learn python flask and create a web application project on w
 ![Alt text](new_post.png)
 
 * * Logout
-![Alt text](image.png)
+![Alt text](logout.png)
 
