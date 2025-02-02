@@ -55,34 +55,5 @@ This project aim to learn python flask and create a web application project on w
     * Home Page
     ![Alt text](image.png)
 
-    * About
-        * * Goal of the web app
-        ![Alt text](image-3.png)
-
-    * Register 
-        * * Users can register through this page
-        ![Alt text](image-1.png)
-
-    * Login
-        * * Registered Users can login directly and post their experiences and also get suggestions 
-        ![Alt text](image-2.png) 
-
-        * * Post Login, You will have access to Account and New Post Page
-        ![Alt text](image-4.png)
-
-
-        * Account 
-        * * Account page helps to update our information
-        ![Alt text](image-5.png)
-
-        * NewPost
-        * * Adding a new post from John login Page
-        ![Alt text](image-7.png)
-
-    * Home Page 
-    - New Post arrived back on home page
-    ![Alt text](image-8.png)
-
-
 
     
