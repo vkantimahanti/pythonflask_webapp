@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block content %}
+    {% for post in posts %}
+        <article class="media content-section">
+            <div class="media-body">
+                <div class="article-metadata">
+                    <a class="article-title" href="#"> PatientID : {{post.Member_ID}}</a>
+                    <small class="text-muted">{{post.Load_Date}}</small>
+                </div>
+                <h6> Patient First Name : {{post.Member_FirstName}} </h6>
+                <h6> Patient Last Name : {{post.Member_LastName}} </h6>
+                <h6> Patient Email : {{post.email_id}} </h6>
+                <h6> Payor Name : {{post.Payer_Name}} </h6>
+                <h6> Patient PlanID: {{post.Plan_ID}} </h6>
+                <h6> Patient Plan: {{post.Plan_Name}} </h6>
+            </div>
+        </article>
+    {% endfor %}
+{% endblock content %}
