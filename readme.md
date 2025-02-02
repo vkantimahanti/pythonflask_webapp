@@ -55,6 +55,27 @@ This project aim to learn python flask and create a web application project on w
 
 ## WebPage Screen Shots
 
-* * Home Page
+* Home Page
+![Alt text](home.png)
 
+* * About Page
+![Alt text](about.png)
+
+* * Register 
+![Alt text](register.png)
+
+* * Login
+![Alt text](login.png)
+
+* * Post Login
+![Alt text](post_login.png)
+
+* * Account Page
+![Alt text](account.png)
+
+* * New Post
+![Alt text](new_post.png)
+
+* * Logout
 ![Alt text](image.png)
+
