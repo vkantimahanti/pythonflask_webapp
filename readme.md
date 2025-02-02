@@ -1,4 +1,4 @@
-# Project Title
+# Project Title - Healthify
 
 This project aim to learn python flask and create a web application project on windows and help end users with diet and routine. This project is still in enhancement stage and will be updating with repo with latest code.
 
